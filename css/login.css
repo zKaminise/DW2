@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(190, 190, 190);
+  margin: 0;
+  height: 100%;
+}
+
+main {
+  background-color: white;
+  width: 350px;
+  padding: 30px;
+  border: 1px solid rgb(190, 190, 190);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+label {
+  display: block;
+}
+
+input {
+  width: 100%;
+}
+
+button {
+  width: 100%;
+  padding: 6px;
+}
